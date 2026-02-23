@@ -87,7 +87,7 @@ Example:
 1. Clone repository
 
 ```
-git clone <your-github-link>
+git clone <https://github.com/kreya228/server-assignment-1.git>
 ```
 
 2. Install dependencies
@@ -112,19 +112,19 @@ http://localhost:5000/students
 
 ## 🌐 Deployment Link
 
-Add your Render link here.
+https://server-assignment-1-fiew.onrender.com/
 
 ---
 
 ## 📄 Postman Documentation
 
-Add your Postman public documentation link here.
+https://documenter.getpostman.com/view/50839275/2sBXcEmg8N
 
 ---
 
 ## 👩‍💻 Author
 
-Your Name
+Kreya Panchal
 
 ---
 
